@@ -1,0 +1,9 @@
+[submodule "java/JavaStudy"]
+	path = java/JavaStudy
+	url = https://github.com/AstoriaMalfoy/JavaStudy.git
+[submodule "java/JavaUtils"]
+	path = java/JavaUtils
+	url = https://github.com/AstoriaMalfoy/JavaUtils.git
+[submodule "java/java_mico_service"]
+	path = java/java_mico_service
+	url = https://github.com/AstoriaMalfoy/java_mico_service.git
